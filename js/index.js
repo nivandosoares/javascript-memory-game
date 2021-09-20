@@ -41,13 +41,8 @@ function check(){
     },2000)
     
   }
-  if(score == images.length){
-<<<<<<< HEAD
-  	alert("Obrigado por jogar!")
-=======
-  	alert("Você finalizou o game, obrigado por jogar 🥰")
->>>>>>> cc5c57e45ca9472185cda3b87f09efa9c7f93910
-  }
+  if(score == images.length){alert("Obrigado por jogar!")
+}
   selected = []
 }
 function create() {
