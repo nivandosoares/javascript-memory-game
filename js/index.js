@@ -37,7 +37,7 @@ function check(){
     
   }
   if(score == images.length){
-  	alert("Você venceu, ,seu score é :" + score)
+  	alert("Você finalizou o game, obrigado por jogar 🥰")
   }
   selected = []
 }
