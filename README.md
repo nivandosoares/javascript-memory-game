@@ -5,4 +5,4 @@
 
 # Desenvolvido durante o <a href = "">Eduzz Bootcamp fullstack developer</a>
 
-<img src = "preview.gif">
+<img src = "imagens/preview.gif">
